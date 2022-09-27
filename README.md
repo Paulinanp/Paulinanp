@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paulina</h1>
 <h3 align="center">A Python enthusiast</h3>
 
+https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif
+
 - 🌱 I’m currently learning **Python in https://softuni.bg/**
 
 - 📫 How to reach me **p.peneva19@gmail.com**
