@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulina</h1>
 <h3 align="center">A coding enthusiast</h3>
 
-<img src="https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" alt="Coding" class="center">
+<img src="https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" alt="Coding" style="width:50%;">
 
 - 🌱 I’m currently learning **Python in https://softuni.bg/**
 
